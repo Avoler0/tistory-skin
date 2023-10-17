@@ -1,0 +1,1 @@
+console.log('하나둘셋')
